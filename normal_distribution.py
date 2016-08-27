@@ -12,3 +12,5 @@ if stats.kstest(x,"norm")[1]<0.05:
     print ("x is not drawn from the normal distribution,不服从正太分布")
 else:
     print( "x is  drawn from the normal distributio 服从正太分布n")
+print("end")
+print("end")
